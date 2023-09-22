@@ -5,7 +5,7 @@
     "image": "https://storage.googleapis.com/hulla-customer-files/tech-assessment/product_1.webp",
     "rank": 1,
     "brand": "Nike",
-    "isAvailable": true
+    "isAvailable": false
   },
   {
     "name": "Product 2",
